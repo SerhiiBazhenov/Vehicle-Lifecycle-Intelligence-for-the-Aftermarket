@@ -1,0 +1,11 @@
+README.md
+setup.cfg
+setup.py
+pyadomd/__init__.py
+pyadomd/_type_code.py
+pyadomd/pyadomd.py
+pyadomd.egg-info/PKG-INFO
+pyadomd.egg-info/SOURCES.txt
+pyadomd.egg-info/dependency_links.txt
+pyadomd.egg-info/requires.txt
+pyadomd.egg-info/top_level.txt
